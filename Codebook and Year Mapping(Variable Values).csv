@@ -1,0 +1,314 @@
+Variable Values,,
+Value,,Label
+SemesterJoin,7,Prior to Fall 2020
+,8,Fall 2020
+,9,Winter 2020
+,10,Spring 2021
+,11,Fall 2021
+,12,Winter 2021
+,13,Spring 2022
+,14,Fall 2022
+,15,Winter 2022
+,16,Spring 2023
+,17,Fall 2023
+,18,Winter 2023
+,19,Spring 2024
+,20,Fall 2024
+,21,Winter 2025
+,22,Spring 2025
+Class,1,Freshman
+,2,Sophomore
+,3,Junior
+,4,Senior
+,5,Graduate student
+Race_1,1,American Indian or Alaska Native
+Race_2,1,Asian
+Race_3,1,Black or African American
+Race_4,1,Hispanic or Latino
+Race_5,1,Middle Eastern or North African
+Race_6,1,Native Hawaiian or Other Pacific Islander
+Race_7,1,White or Caucasian
+Race_8,1,Other ethnicity
+Residence,1,Fraternity/sorority house
+,2,Campus residence hall with fraternity/sorority members
+,3,Campus residence hall without fraternity/sorority members
+,4,Off-campus house or apartment with fraternity/sorority members
+,5,Off-campus house or apartment without fraternity/sorority members
+,6,Other
+Leader,1,Yes
+,2,"No, but I have held a leadership position in the past"
+,3,"No, and I have never held a leadership position"
+HrsPerWeek,1,0 hours per week
+,2,1-5 hours per week
+,3,6-10 hours per week
+,4,11-20 hours per week
+,5,Over 20 hours per week
+F_Svalue,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+RWB_Support,0,0 Not at all
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10 Completely
+RWB_Care,0,0 Not at all
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10 Completely
+RWB_Satisfied,0,0 Not at all
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10 Completely
+Commit_Campus_1,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Campus_2,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Campus_3,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Campus_4,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Chapter_1,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Chapter_2,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Chapter_3,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Chapter_4,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Self_1,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Self_2,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Self_3,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Commit_Self_4,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+Policy_Campus_1,1,Yes
+,2,No
+,3,I'm not sure
+Policy_Campus_2,1,Yes
+,2,No
+,3,I'm not sure
+Policy_Campus_3,1,Yes
+,2,No
+,3,I'm not sure
+Impact_CampusPolicy_1_1,1,Changed my attitude toward hazing
+Impact_CampusPolicy_1_2,1,Made me more likely to intervene in a hazing situation
+Impact_CampusPolicy_1_3,1,Made me more likely to report hazing
+Impact_CampusPolicy_1_4,1,No impact
+Impact_CampusPolicy_2_1,1,Changed my attitude toward hazing
+Impact_CampusPolicy_2_2,1,Made me more likely to intervene in a hazing situation
+Impact_CampusPolicy_2_3,1,Made me more likely to report hazing
+Impact_CampusPolicy_2_4,1,No impact
+Impact_CampusPolicy_3_1,1,Changed my attitude toward hazing
+Impact_CampusPolicy_3_2,1,Made me more likely to intervene in a hazing situation
+Impact_CampusPolicy_3_3,1,Made me more likely to report hazing
+Impact_CampusPolicy_3_4,1,No impact
+Law,1,Yes
+,2,No
+,3,I'm not sure
+Impact_Law_1,1,Changed my attitude toward hazing
+Impact_Law_2,1,Made me more likely to intervene in a hazing situation
+Impact_Law_3,1,Made me more likely to report hazing
+Impact_Law_4,1,No impact
+Programs_Campus_1,1,"My campus offers this program, and I have participated in it."
+,2,"My campus offers this program, but I have not participated in it."
+,3,My campus does not offer this program.
+,4,I am not sure if my campus offers this program.
+Programs_Campus_2,1,"My campus offers this program, and I have participated in it."
+,2,"My campus offers this program, but I have not participated in it."
+,3,My campus does not offer this program.
+,4,I am not sure if my campus offers this program.
+Programs_Campus_3,1,"My campus offers this program, and I have participated in it."
+,2,"My campus offers this program, but I have not participated in it."
+,3,My campus does not offer this program.
+,4,I am not sure if my campus offers this program.
+Programs_Campus_4,1,"My campus offers this program, and I have participated in it."
+,2,"My campus offers this program, but I have not participated in it."
+,3,My campus does not offer this program.
+,4,I am not sure if my campus offers this program.
+Programs_Campus_5,1,"My campus offers this program, and I have participated in it."
+,2,"My campus offers this program, but I have not participated in it."
+,3,My campus does not offer this program.
+,4,I am not sure if my campus offers this program.
+Programs_Campus_6,1,"My campus offers this program, and I have participated in it."
+,2,"My campus offers this program, but I have not participated in it."
+,3,My campus does not offer this program.
+,4,I am not sure if my campus offers this program.
+Impact_Prog_Campus_1_1,1,Changed my attitude toward hazing
+Impact_Prog_Campus_1_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Campus_1_3,1,Made me more likely to report hazing
+Impact_Prog_Campus_1_4,1,No impact
+Impact_Prog_Campus_2_1,1,Changed my attitude toward hazing
+Impact_Prog_Campus_2_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Campus_2_3,1,Made me more likely to report hazing
+Impact_Prog_Campus_2_4,1,No impact
+Impact_Prog_Campus_3_1,1,Changed my attitude toward hazing
+Impact_Prog_Campus_3_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Campus_3_3,1,Made me more likely to report hazing
+Impact_Prog_Campus_3_4,1,No impact
+Impact_Prog_Campus_4_1,1,Changed my attitude toward hazing
+Impact_Prog_Campus_4_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Campus_4_3,1,Made me more likely to report hazing
+Impact_Prog_Campus_4_4,1,No impact
+Impact_Prog_Campus_5_1,1,Changed my attitude toward hazing
+Impact_Prog_Campus_5_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Campus_5_3,1,Made me more likely to report hazing
+Impact_Prog_Campus_5_4,1,No impact
+Impact_Prog_Campus_6_1,1,Changed my attitude toward hazing
+Impact_Prog_Campus_6_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Campus_6_3,1,Made me more likely to report hazing
+Impact_Prog_Campus_6_4,1,No impact
+Programs_Chap_1,1,"My chapter offers this program, and I have participated in it."
+,2,"My chapter offers this program, but I have not participated in it."
+,3,My chapter does not offer this program.
+,4,I am not sure if my chapter offers this program.
+Programs_Chap_2,1,"My chapter offers this program, and I have participated in it."
+,2,"My chapter offers this program, but I have not participated in it."
+,3,My chapter does not offer this program.
+,4,I am not sure if my chapter offers this program.
+Programs_Chap_3,1,"My chapter offers this program, and I have participated in it."
+,2,"My chapter offers this program, but I have not participated in it."
+,3,My chapter does not offer this program.
+,4,I am not sure if my chapter offers this program.
+Programs_Chap_4,1,"My chapter offers this program, and I have participated in it."
+,2,"My chapter offers this program, but I have not participated in it."
+,3,My chapter does not offer this program.
+,4,I am not sure if my chapter offers this program.
+Programs_Chap_5,1,"My chapter offers this program, and I have participated in it."
+,2,"My chapter offers this program, but I have not participated in it."
+,3,My chapter does not offer this program.
+,4,I am not sure if my chapter offers this program.
+Programs_Chap_6,1,"My chapter offers this program, and I have participated in it."
+,2,"My chapter offers this program, but I have not participated in it."
+,3,My chapter does not offer this program.
+,4,I am not sure if my chapter offers this program.
+Impact_Prog_Chapter_1_1,1,Changed my attitude toward hazing
+Impact_Prog_Chapter_1_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Chapter_1_3,1,Made me more likely to report hazing
+Impact_Prog_Chapter_1_4,1,No impact
+Impact_Prog_Chapter_2_1,1,Changed my attitude toward hazing
+Impact_Prog_Chapter_2_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Chapter_2_3,1,Made me more likely to report hazing
+Impact_Prog_Chapter_2_4,1,No impact
+Impact_Prog_Chapter_3_1,1,Changed my attitude toward hazing
+Impact_Prog_Chapter_3_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Chapter_3_3,1,Made me more likely to report hazing
+Impact_Prog_Chapter_3_4,1,No impact
+Impact_Prog_Chapter_4_1,1,Changed my attitude toward hazing
+Impact_Prog_Chapter_4_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Chapter_4_3,1,Made me more likely to report hazing
+Impact_Prog_Chapter_4_4,1,No impact
+Impact_Prog_Chapter_5_1,1,Changed my attitude toward hazing
+Impact_Prog_Chapter_5_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Chapter_5_3,1,Made me more likely to report hazing
+Impact_Prog_Chapter_5_4,1,No impact
+Impact_Prog_Chapter_6_1,1,Changed my attitude toward hazing
+Impact_Prog_Chapter_6_2,1,Made me more likely to intervene in a hazing situation
+Impact_Prog_Chapter_6_3,1,Made me more likely to report hazing
+Impact_Prog_Chapter_6_4,1,No impact
+NMBAChapServe_1_1,1,Required in other teams and organizations
+NMBAChapServe_1_2,1,Required in other fraternities/sororities
+NMBAChapServe_1_3,1,Required in my chapter
+NMBAChapServe_2_1,1,Required in other teams and organizations
+NMBAChapServe_2_2,1,Required in other fraternities/sororities
+NMBAChapServe_2_3,1,Required in my chapter
+NMBAChapServe_3_1,1,Required in other teams and organizations
+NMBAChapServe_3_2,1,Required in other fraternities/sororities
+NMBAChapServe_3_3,1,Required in my chapter
+NMBAChapServe_4_1,1,Required in other teams and organizations
+NMBAChapServe_4_2,1,Required in other fraternities/sororities
+NMBAChapServe_4_3,1,Required in my chapter
+NMBAChapMental_1_1,1,Required in other teams and organizations
+NMBAChapMental_1_2,1,Required in other fraternities/sororities
+NMBAChapMental_1_3,1,Required in my chapter
+NMBAChapMental_2_1,1,Required in other teams and organizations
+NMBAChapMental_2_2,1,Required in other fraternities/sororities
+NMBAChapMental_2_3,1,Required in my chapter
+NMBAChapMental_3_1,1,Required in other teams and organizations
+NMBAChapMental_3_2,1,Required in other fraternities/sororities
+NMBAChapMental_3_3,1,Required in my chapter
+NMBAChapMental_4_1,1,Required in other teams and organizations
+NMBAChapMental_4_2,1,Required in other fraternities/sororities
+NMBAChapMental_4_3,1,Required in my chapter
+NMBAChapMental_5_1,1,Required in other teams and organizations
+NMBAChapMental_5_2,1,Required in other fraternities/sororities
+NMBAChapMental_5_3,1,Required in my chapter
+NMBAChapMental_6_1,1,Required in other teams and organizations
+NMBAChapMental_6_2,1,Required in other fraternities/sororities
+NMBAChapMental_6_3,1,Required in my chapter
+NMBAChapMental_7_1,1,Required in other teams and organizations
+NMBAChapMental_7_2,1,Required in other fraternities/sororities
+NMBAChapMental_7_3,1,Required in my chapter
+NMBAChapMental_8_1,1,Required in other teams and organizations
+NMBAChapMental_8_2,1,Required in other fraternities/sororities
+NMBAChapMental_8_3,1,Required in my chapter
+NMBAChapMental_9_1,1,Required in other teams and organizations
+NMBAChapMental_9_2,1,Required in other fraternities/sororities
+NMBAChapMental_9_3,1,Required in my chapter
+NMBAChapMental_10_1,1,Required in other teams and organizations
+NMBAChapMental_10_2,1,Required in other fraternities/sororities
+NMBAChapMental_10_3,1,Required in my chapter
+Say_do,1,Strongly Disagree
+,2,Slightly Disagree
+,3,Slightly Agree
+,4,Strongly Agree
+NMBAChapServe_1_4,1,Required on some intercollegiate athletics teams
+NMBAChapServe_2_4,1,Required on some intercollegiate athletics teams
+NMBAChapServe_3_4,1,Required on some intercollegiate athletics teams
+NMBAChapServe_4_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_1_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_2_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_3_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_4_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_5_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_6_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_7_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_8_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_9_4,1,Required on some intercollegiate athletics teams
+NMBAChapMental_10_4,1,Required on some intercollegiate athletics teams
